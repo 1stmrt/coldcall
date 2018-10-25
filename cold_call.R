@@ -68,3 +68,4 @@ levels(cidata$Educationf) <- c(levels(cidata$Education), 'idk')
 cidata$Educationf
 cidata$Education <- NULL
 
+##
